@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	 background-image:url(img/hathat.jpg);
+	 background-attachment:fixed;
+	 
+	 	}
+nav{
+	font-size:20px;
+}
+.thai{
+	font-family: 'Prompt-Light';
+}
+@font-face {
+    font-family: 'Prompt-Light';
+    src:url(font/Prompt-Light.woff) format('woff');
+    font-weight:normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Sriracha';
+    src:url(font/Sriracha.woff) format('woff');
+    font-weight:normal;
+    font-style: normal;
+
+}
